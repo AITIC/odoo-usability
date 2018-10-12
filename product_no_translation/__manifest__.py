@@ -6,7 +6,7 @@
 
 {
     'name': 'Product no Translation',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'category': 'Sales',
     'license': 'AGPL-3',
     'summary': "For companies work with several languages but not for products",
@@ -14,7 +14,8 @@
 This module sets the translatable fields of the product object (name,
 descriptions) to non-translatable fields.
 
-This change is usefull for companies that work with several languages BUT that don't translate product names.
+This change is usefull for companies that work with several languages BUT that
+don't translate product names.
     """,
     'author': 'Akretion',
     'website': 'http://www.akretion.com',
